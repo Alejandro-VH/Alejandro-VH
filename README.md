@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 Sobre mí
-🌱 Estudiando Ingeniería en Computación e Informática<br>🧠 Aprendiendo PHP y Laravel<br>⚡ Intento de modelador 3D
+🌱 Estudiando Ingeniería en Computación e Informática<br>🧠 Aprendiendo PHP y Laravel<br>
 # 💻 Tecnologías
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
