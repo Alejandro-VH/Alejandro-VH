@@ -14,26 +14,60 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 Sobre mí
-🌱 Estudiando Ingeniería en Computación e Informática<br>🧠 Aprendiendo PHP y Laravel<br>
-# 💻 Tecnologías
-<div align="left">
+<h1 align="center">Hola, soy Alejandro Villarroel 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻  Sobre mi</h3>
+
+###
+
+<p align="left">- 🌱 Estudiando Ingeniería en Computación e Informática<br>- 📚 En este momento me encuentro aprendiendo Node.JS y lo básico de React<br>- 🖥️ De vez en cuando modelo en Blender o creo cosas en Unity, aunque a veces lo dejo por un tiempo… pero vuelvo tarde o temprano</p>
+
+###
+
+<h3 align="left">🛠 Lenguajes y herramientas que manejo</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
-# 📊 Estadísticas de GitHub
+###
+
+<h3 align="left">🧩 Estoy aprendiendo</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-VH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alejandro-VH&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alejandro-VH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   Estadísticas de GitHub</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Alejandro-VH&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
