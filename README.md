@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- 🌱 Estudiando Ingeniería en Computación e Informática<br>- 📚 En este momento me encuentro aprendiendo Node.JS y lo básico de React<br>- 🖥️ De vez en cuando modelo en Blender o creo cosas en Unity, aunque a veces lo dejo por un tiempo… pero vuelvo tarde o temprano</p>
+<p align="left">- 🌱 Estudiando Ingeniería en Computación e Informática<br>- 📚 En este momento me encuentro aprendiendo Node.JS y lo básico de React<br>- 🖥️ De vez en cuando modelo en Blender o programo juegos en Unity</p>
 
 ###
 
