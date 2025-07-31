@@ -18,54 +18,64 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👨‍💻  Sobre mi</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/alevillarroel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/agvh124" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="alevillarroel.hc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=alevillarroel.hc@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
-<p align="left">- 🌱 Estudiando Ingeniería en Computación e Informática<br>- 📚 En este momento me encuentro aprendiendo Node.JS y lo básico de React<br>- 🖥️ De vez en cuando modelo en Blender o programo juegos en Unity</p>
+<h3 align="left">👨‍💻 Sobre mi</h3>
 
 ###
 
-<h3 align="left">🛠 Lenguajes y herramientas que manejo</h3>
+<p align="left">🌱 Estudiando Ingeniería en Computación e Informática<br>📚 En este momento me encuentro aprendiendo frontend<br>🖥️ De vez en cuando modelo en Blender o programo juegos en Unity</p>
 
 ###
 
-<br clear="both">
+<h3 align="left">🛠 Stack tecnológico</h3>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
 
-<h3 align="left">🧩 Estoy aprendiendo</h3>
+<h3 align="left">🧩 Aprendiendo actualmente</h3>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   Estadísticas de GitHub</h3>
+<h3 align="left">🔥 Estadísticas de GitHub</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alejandro-VH&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alejandro-VH&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
