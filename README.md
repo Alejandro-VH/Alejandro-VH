@@ -25,9 +25,6 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/profile/agvh124" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="alevillarroel.hc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=alevillarroel.hc@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -36,7 +33,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">🌱 Estudiando Ingeniería en Computación e Informática<br>📚 En este momento me encuentro aprendiendo frontend<br>🖥️ De vez en cuando modelo en Blender o programo juegos en Unity</p>
+<p align="left">🌱 Egresado de Ingeniería en Computación e Informática<br>🔭 Buscando nuevos proyectos/desafios en este momento<br>🖥️ De vez en cuando modelo en Blender o programo juegos en Unity</p>
 
 ###
 
@@ -47,6 +44,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -54,18 +53,11 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🧩 Aprendiendo actualmente</h3>
-
-###
-
-<div align="center">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
 </div>
 
 ###
